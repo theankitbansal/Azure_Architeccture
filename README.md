@@ -41,3 +41,10 @@ Once it is certain that technology and architecture are its priority, it is also
 ![image](https://user-images.githubusercontent.com/81725794/179342453-a71023e0-2195-4fb6-9951-8b30a7c0de70.png)
 
 Reference architectures: Every one of the reference architectures is scalable and flexible, since scalability is a key requirement for every vendor. Depending on the size of your team, you can choose the reference architecture that suits your needs the best. Another great benefit of these architectures is that you can start with a strategy for every type of customer. The reference architectures also provide detailed instructions on how to implement them. The recommended architecture from every vendor is tested and proven, since every vendor wants to ensure a successful implementation.
+
+Design principles: When you’re working with a particular architecture method, it’s important to research the design principles that form that method. For example, when working with a high-level design process, you can research the principles of constraint-based design. When working with a low-level process, you can research the principles of alignment-based design. Use this list as a reference point throughout the design process. Whenever you come across a design principle, make sure to apply it when designing that particular architecture method.
+
+Design patterns: Cloud design patterns are the ways in which cloud providers fix these problems to make their services more reliable and scalable. Cloud design patterns are a list of best , rules, or guidelines. They are a collection of thoughts on how to design a cloud system.
+
+
+
