@@ -1,2 +1,7 @@
 # Azure_Architeccture
 Detailed description on Azure Architecture
+
+
+What is Microsoft Azure Used For?
+
+Microsoft Azure is a cloud computing service that provides virtual servers and storage. It allows you to quickly deploy applications and run them in the cloud, while also giving you access to a large network of other users. You can use Azure to run web apps, mobile apps, and more. Azure is available in several different subscription plans, so you can choose what’s right for your needs. It’s commonly used for things like building websites and running databases, among other things. With Microsoft’s recent launches of Azure Kubernetes Service (AKS) and Azure Container Service (ACS), microservice adoption has gained momentum in enterprises. Microservices are “a collection of small, independent services that communicate with each other via APIs”. These individual services are easier to maintain and develop than monolithic applications. Microservices show signs of being a key component of the future IT architecture due to its flexibility as well as scalability. In addition to its ease-of-use, Microsoft also offers a wide range of tools designed to help developers build microservices and scale their applications end-to-end on Azure. For example, Visual Studio Code provides a lightweight code editor designed for HTML, JavaScript, and TypeScript development on the macOS platform. Azure CLI provides an easy-to-use Command Line Interface (CLI) that enables developers to automate tasks across Azure services.
