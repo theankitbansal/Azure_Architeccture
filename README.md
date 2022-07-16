@@ -47,4 +47,14 @@ Design principles: When you’re working with a particular architecture method, 
 Design patterns: Cloud design patterns are the ways in which cloud providers fix these problems to make their services more reliable and scalable. Cloud design patterns are a list of best , rules, or guidelines. They are a collection of thoughts on how to design a cloud system.
 
 
+Features of Azure Architecture
+
+The Azure features are listed below:
+
+1. You can protect your data through a variety of options including replication, snapshots, and data encryption. You can even protect your data through a variety of options including replication, snapshots, and data encryption. This last option can be used to protect data across regions, which means you can even protect data across regions across the globe. This provides you with an extra level of protection in case of a natural disaster, hacker attack, or equipment failure. Your data is stored in multiple data centers around the world, so even if one of the data centers were to suffer a disaster, your data is still safe because it is stored in different locations. 
+2. With Azure Site Recovery, you can take full control of the process of data replication and be confident that your data is safe and secure. You can choose the level of detail and metrics that you would like to monitor when determining the best replication schedule for your business needs.
+3. Azure provides a broad range of capabilities for building, deploying, and managing apps to run anywhere at any time on any device. You can use any language or framework of your choice, and you can scale your app horizontally, either by adding more servers or by distributing the load between multiple servers. Azure provides a wide range of tools and services based on open-source technology, such as monitoring, logging, and troubleshooting. You can use these tools to monitor your app’s health and troubleshoot any issues. Azure also provides a range of tools and services that enable you to build and manage apps, from setting up a staging environment to securing your app. 
+4. You can also use Azure Active Directory to secure your website and connect user profiles with the app for seamless sign-in. For apps that support mobile devices, you can use App Services to host your app and handle mobile device management (MDM). Azure provides app hosting in App Service, enabling you to quickly iterate on new features and deploy updates to your app with zero downtime.
+5. With Active Directory synchronization, users and groups are automatically maintained between on-premises Active Directory and Azure Active Directory. This ensures that user accounts, groups, and permissions are maintained throughout the entire process, from Active Directory creation to user logins. You can also easily manage user and group policies by using the Active Directory management tools to enforce the desired behavior in your organization.
+
 
